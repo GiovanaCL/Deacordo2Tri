@@ -1,7 +1,15 @@
-.Mehhh
+header
  {
-    background-color: yellow;
+    background-color: red;
     width: 1440px;
-    height: 50px;
-    
+    height: 342px;
+ }
+ .titulo
+ {
+   background-color: rgba(76, 52, 224, 1)
+ }
+ .corpo
+ {
+   height: 620px;
+   background-color: #9E77c6 ;
  }

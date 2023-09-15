@@ -13,3 +13,8 @@ header
    height: 620px;
    background-color: #9E77c6 ;
  }
+ .cabecalho-lista-item{
+
+  margin: 0 16px;
+  font-size: 24px;
+}

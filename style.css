@@ -4,20 +4,22 @@ header
     width: 1440px;
     height: 342px;
  }
- .base_cabecalho
+
+ .bara_superior
  {
   width: 1430px;
   height: 342px;
    background-color: #F31A1A
  }
+
  .base_roxa
  {
   width: 1430px;
    height: 624px;
    background-color: #9E77c6 ;
  }
- .cabecalho-lista-item{
 
+ .cabecalho-lista-item{
   margin: 14px;
   font-size: 14px;
 }
